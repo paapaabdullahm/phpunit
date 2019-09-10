@@ -1,8 +1,8 @@
 # PHPUNIT
 
-A Programmer-Oriented Testing Framework for PHP. An instance of the xUnit architecture for unit testing frameworks. Checkout the [**Getting Started with PHPUnit**](https://phpunit.de/getting-started.html) page on the project website for a quick intro. Check the documentation on the [__8.x__](https://phpunit.readthedocs.io/en/8/) release.
+A Programmer-Oriented Testing Framework for PHP. An instance of the xUnit architecture for unit testing frameworks. Checkout the [**Getting Started with PHPUnit**](https://phpunit.de/getting-started.html) page on the project website for a quick intro.
 
-> Since @sebastianbergmann abandoned **dbunit**, it will no more be included in this and future builds. You can read more on this issue from <a href="https://github.com/sebastianbergmann/dbunit/issues/217" target="_blank">**here**</a>
+Since @sebastianbergmann abandoned **dbunit**, it will no more be included in this and future builds. You can read more on this issue from <a href="https://github.com/sebastianbergmann/dbunit/issues/217" target="_blank">**here**</a>
 
 ## Current Tag:
 
@@ -58,4 +58,4 @@ $ phpunit --testsuite "ModulesTest"
 ```
 &nbsp;
 
-Checkout PHPUnit <a href="https://phpunit.readthedocs.io" target="_blank">**official documentation**</a> for more details.
+Checkout PHPUnit's <a href="https://phpunit.readthedocs.io" target="_blank">**official documentation**</a> for more details.
